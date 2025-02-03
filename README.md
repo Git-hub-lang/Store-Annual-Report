@@ -1,2 +1,3 @@
-# Store-Annual-Report
-I have developed a comprehensive project in Excel creating multiple dashboards and table to analyze the data. This process involves several stages, including data preprocessing, data cleaning and data visualization.
+#Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+##Project Objective
+The  Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in upcoming years.
